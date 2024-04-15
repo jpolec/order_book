@@ -4,8 +4,6 @@ This Python project provides a real-time visualization of the order book for the
 
 It's a part of Trading Framework project which you can get at https://quantjourney.substack.com/
 
-![Order Book Screenshot](orderbook.png)
-
 ## Features
 
 - Real-time order book updates using Binance WebSocket API.
@@ -22,6 +20,8 @@ It's a part of Trading Framework project which you can get at https://quantjourn
 - `OrderBook`: Represents the order book and maintains the current state of bids and asks. Provides methods to update the order book and retrieve relevant information.
 - `WebSocketHandler`: Handles the WebSocket connection to the Binance server, subscribes to order book updates, and processes received messages.
 - `RealTimePlotter`: Visualizes the order book using Matplotlib, updating the plot in real-time based on the data received from the WebSocket connection.
+
+![Order Book Screenshot](orderbook.png)
 
 ## Usage
 
