@@ -2,6 +2,8 @@
 
 This Python project provides a real-time visualization of the order book for the BTCUSDT trading pair on the Binance exchange using WebSocket technology. It allows traders to monitor live market dynamics and make informed trading decisions.
 
+It's a part of Trading Framework project which you can get at https://quantjourney.substack.com/
+
 ![Order Book Screenshot](orderbook.png)
 
 ## Features
