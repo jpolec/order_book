@@ -31,6 +31,8 @@ It's a part of Trading Framework project which you can get at https://quantjourn
 
 This project serves as a mid-step towards integrating with the CCXT (CryptoCurrency eXchange Trading) library, enabling traders to access various cryptocurrency exchanges and perform advanced analysis and trading strategies.
 
+![Order Book Screenshot](orderbook_png_1.png)
+![Order Book Screenshot](orderbook_png_2.png)
 **Demo Video**
 
 For a full demonstration of the real-time order book visualization, watch the video below:
